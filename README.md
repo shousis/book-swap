@@ -125,10 +125,6 @@ npm run dev
 ![Регистрация](docs/screenshots/08-register.png)
 ![О проекте](docs/screenshots/09-about.png)
 
-### Лаба №2 (Backend API)
-![Создание книги](docs/screenshots/10-api-create-book.png)
-![Список книг](docs/screenshots/11-api-get-books.png)
-
 ## История изменений
 
 - **v1 (лаба №1):** создан каркас React + TypeScript на Vite, настроена клиентская маршрутизация, подключена UI-библиотека MUI, реализованы все основные экраны на демонстрационных данных.
